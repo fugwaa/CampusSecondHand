@@ -1,0 +1,2 @@
+# CampusSecondHand
+基于springboot的便捷淘校园二手交易平台开发
